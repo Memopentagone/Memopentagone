@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Memopentagone
 - 👀 I’m interested in Arduino and AI(maybe both combined?) I know python, sql , and how to make AI with both and tensorflow. I also know c++, and some Kotlin 
-- 🌱 I’m currently kotlin and expanding on my C++ knowledg.
+- 🌱 I’m currently learning kotlin and expanding on my C++ knowledg.
 - 💞️ I’m looking to collaborate on any thing related arduino, C++ app with AI, AI etc
 - 📫 How to reach me 1001010001001000000111010101010
 
